@@ -1,0 +1,7 @@
+.book-images {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap:3%;
+    row-gap:3%;
+}
